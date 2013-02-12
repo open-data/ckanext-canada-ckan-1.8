@@ -1,19 +1,12 @@
-ckanext-canada
-==============
+ckanext-canada-ckan-1.8
+=======================
 
-Government of Canada CKAN Extension - Extension à CKAN du Gouvernement du Canada
+This is an archived version of the Government of Canada CKAN Extension for
+CKAN 1.8.  Current development at https://github.com/open-data/ckanext-canada
+is focused on CKAN 2.0 only.
 
-Team: Ian Ward, Ross Thompson, Peder Jakobsen
-
-Features:
-
-* Forms and Validation for GoC Metadata Schema (in progress)
-* Batch import of data (coming, currently in a separate extension)
-	
-Installation:
-
-* Use CKAN Version: 1.8
-* After every pull or fetch, use ``python setup.py develop`` just in case entry points have changed.
+You may find this copy useful as a basis for applying the Web Experience Toolkit
+to 1.x versions of CKAN.
 
 Plugins
 -------
